@@ -11,7 +11,7 @@ import streamlit as st
 from PIL import Image
 from widgets import navbar
 #import streamlit.components.v1 as components
-st.set_page_config(page_title="Nitin Mali",layout="wide",initial_sidebar_state="collapsed")
+st.set_page_config(page_title="Gouri Benni",layout="wide",initial_sidebar_state="collapsed")
 from st_pages import hide_pages, show_pages, Page
 over_theme = {
     'txc_inactive': '#FFEBEE',  # Light Pink: Inactive text color
@@ -31,7 +31,7 @@ st.markdown(
 )
 
 # Initialize the Hydra app
-app = HydraApp(title='Nitin Mali Portfolio', hide_streamlit_markers=True,use_navbar=True, navbar_sticky=True,navbar_mode='pinned',use_cookie_cache=True, navbar_animation=True,navbar_theme=over_theme)
+app = HydraApp(title='Gouri Benni Portfolio', hide_streamlit_markers=True,use_navbar=True, navbar_sticky=True,navbar_mode='pinned',use_cookie_cache=True, navbar_animation=True,navbar_theme=over_theme)
 
 @app.addapp(title='HOME')
 def HOME(title='Home',is_home=True):
