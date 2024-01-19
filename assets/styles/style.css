@@ -1,0 +1,41 @@
+ul {
+    padding-left: 1.5rem;
+  }
+
+h1 {
+    text-align:center;
+}
+
+h2 {
+    text-align:center;
+}
+
+h5 {
+    text-align:center;
+}
+
+img {
+    margin-left: 8rem;
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+footer {
+    position: fixed;
+    width:90%;
+    background-color: #6195c8; 
+}
+header {
+    visibility: hidden;
+}
+
+.css-uc1cuc  {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+
+li.nav-item:hover {
+    background-image: linear-gradient(90deg,#2E3192,#1BFFFF);
+    color: black;
+}

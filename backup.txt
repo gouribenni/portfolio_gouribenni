@@ -1,0 +1,51 @@
+if project["title"]=="Income and BMI Prediction":
+                        st.write("House Income Data Preparation")
+                        github_url = 'https://github.com/nitzmali/BMI_PREDICTION/blob/main/1.1%20-%20Data_Preparation%20%5BHH%5D.ipynb?raw=true'
+                        nbviewer_url = github_url.replace('github.com', 'nbviewer.jupyter.org/github')
+                        st.markdown(f'<iframe src="{nbviewer_url}" width="100%" height="800" frameborder="0"></iframe>', unsafe_allow_html=True)
+                        st.write("House Income Data Exploration")
+                        github_url = 'https://github.com/nitzmali/BMI_PREDICTION/blob/main/1.2%20-%20Data%20Exploration%20%5BHH%5D.ipynb?raw=true'
+                        nbviewer_url = github_url.replace('github.com', 'nbviewer.jupyter.org/github')
+                        st.markdown(f'<iframe src="{nbviewer_url}" width="100%" height="800" frameborder="0"></iframe>', unsafe_allow_html=True)
+                        st.write("House Income Modelling")
+                        github_url = 'https://github.com/nitzmali/BMI_PREDICTION/blob/main/1.3%20-%20Encoding%20and%20%20Modelling%20%5BHH%5D.ipynb?raw=true'
+                        nbviewer_url = github_url.replace('github.com', 'nbviewer.jupyter.org/github')
+                        st.markdown(f'<iframe src="{nbviewer_url}" width="100%" height="800" frameborder="0"></iframe>', unsafe_allow_html=True)
+                        st.write("BMI Data Preparation")
+                        github_url = 'https://github.com/nitzmali/BMI_PREDICTION/blob/main/1.2%20-%20Data%20Exploration%20%5BHH%5D.ipynb?raw=true'
+                        nbviewer_url = github_url.replace('github.com', 'nbviewer.jupyter.org/github')
+                        st.markdown(f'<iframe src="{nbviewer_url}" width="100%" height="800" frameborder="0"></iframe>', unsafe_allow_html=True)
+                        st.write("BMI Data Exploration")
+                        github_url = 'https://github.com/nitzmali/BMI_PREDICTION/blob/main/2.2%20-%20Data%20Exploration%20%5BBMI%5D.ipynb?raw=true'
+                        nbviewer_url = github_url.replace('github.com', 'nbviewer.jupyter.org/github')
+                        st.markdown(f'<iframe src="{nbviewer_url}" width="100%" height="800" frameborder="0"></iframe>', unsafe_allow_html=True)
+                        st.write("BMI -- Regression Machine Learning Model")
+                        github_url = 'https://github.com/nitzmali/BMI_PREDICTION/blob/main/2.3%20-%20Encoding%20and%20Modelling%20%5BBMI%5D.ipynb?raw=true'
+                        nbviewer_url = github_url.replace('github.com', 'nbviewer.jupyter.org/github')
+                        st.markdown(f'<iframe src="{nbviewer_url}" width="100%" height="800" frameborder="0"></iframe>', unsafe_allow_html=True)
+
+                    if project["title"]=="AI Powered Job Transition Pathway using Generative LSTM Models":
+                        st.write("## Data Loading and Processing")
+                        github_url = 'https://github.com/nitzmali/job_transition_pathway/blob/main/notebooks/data_process.ipynb?raw=true'
+                        nbviewer_url = github_url.replace('github.com', 'nbviewer.jupyter.org/github')
+                        st.markdown(f'<iframe src="{nbviewer_url}" width="100%" height="800" frameborder="0"></iframe>', unsafe_allow_html=True)
+                        st.write("## Clustering Job Ttiles using Spacy")
+                        github_url = 'https://github.com/nitzmali/job_transition_pathway/blob/main/notebooks/build_clustering_titles_skills_iden_models.ipynb?raw=true'
+                        nbviewer_url = github_url.replace('github.com', 'nbviewer.jupyter.org/github')
+                        st.markdown(f'<iframe src="{nbviewer_url}" width="100%" height="800" frameborder="0"></iframe>', unsafe_allow_html=True)
+                        st.write("## Generate Synthetic data to map job transitions")
+                        github_url = 'https://github.com/nitzmali/job_transition_pathway/blob/main/notebooks/jobs_data_generation.ipynb?raw=true'
+                        nbviewer_url = github_url.replace('github.com', 'nbviewer.jupyter.org/github')
+                        st.markdown(f'<iframe src="{nbviewer_url}" width="100%" height="800" frameborder="0"></iframe>', unsafe_allow_html=True)
+                        st.write("## Job Prediction")
+                        github_url = 'https://github.com/nitzmali/job_transition_pathway/blob/main/notebooks/final_models/job_prediction.ipynb?raw=true'
+                        nbviewer_url = github_url.replace('github.com', 'nbviewer.jupyter.org/github')
+                        st.markdown(f'<iframe src="{nbviewer_url}" width="100%" height="800" frameborder="0"></iframe>', unsafe_allow_html=True)
+                        st.write("## Skills Prediction")
+                        github_url = 'https://github.com/nitzmali/job_transition_pathway/blob/main/notebooks/final_models/skills_prediction.ipynb?raw=true'
+                        nbviewer_url = github_url.replace('github.com', 'nbviewer.jupyter.org/github')
+                        st.markdown(f'<iframe src="{nbviewer_url}" width="100%" height="800" frameborder="0"></iframe>', unsafe_allow_html=True)
+                        st.write("## Course Prediction")
+                        github_url = 'https://github.com/nitzmali/job_transition_pathway/blob/main/notebooks/final_models/course_prediction.ipynb?raw=true'
+                        nbviewer_url = github_url.replace('github.com', 'nbviewer.jupyter.org/github')
+                        st.markdown(f'<iframe src="{nbviewer_url}" width="100%" height="800" frameborder="0"></iframe>', unsafe_allow_html=True)    

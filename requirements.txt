@@ -1,0 +1,25 @@
+streamlit==1.29.0
+#conda create --name sandbox python=3.9
+#conda activate sandbox
+#watchdog
+#yfinance
+#git clone https://github.com/streamlit/component-template # make sure the template folder is in home directory
+#npm install
+#sudo npm install -g mdb-cli
+# in template folder install template as editable package
+#pip install -e .
+#sympy
+#ipympl
+#scikit-learn
+#networkx
+#pydot
+#tensorflow==2.12    
+#Graphviz
+plotly
+st-pages
+streamlit-timeline
+hydralit_components
+st_btn_select
+hydralit
+matplotlib
+seaborn

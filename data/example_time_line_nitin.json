@@ -1,0 +1,214 @@
+{
+    "title": {
+        "media": {
+          "url": "https://media.giphy.com/media/xT5LMIPMieHhqReXvO/giphy.gif",
+          "caption": " <a target=\"Gouri\" href=''>credits</a>",
+          "credit": ""
+        },
+        "text": {
+          "headline": "Chronicles of Innovation: Gouri Benni's Data Odyssey",
+          "text": "<p>Embarking on a Data Expedition: Milestones of Mastery and Discovery</p>"
+        }
+    }, 
+    "events": [
+      {
+        "media": {
+          "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/sports.png?raw=true",
+          "caption": ""
+        },
+        "start_date": {
+          "year": "2013",
+          "month":"6"
+        },
+        "text": {
+          "headline": "Early Leadership: Sports Seceratary",
+          "text": "<p>My tenure as the Sports Secretary during my seventh and tenth standard years was a defining period in my early development. This role was a cornerstone in cultivating my sense of responsibility, teamwork, and a commitment to fostering a positive and disciplined environment. The experience of managing and organizing sports activities in school allowed me to develop and refine my leadership skills from a young age.</p>"
+        }
+      },
+      {
+      "media": {
+        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/Gogte.jpeg?raw=true",
+        "caption": ""
+      },
+      "start_date": {
+        "year": "2016",
+        "month":"5"
+      },
+      "text": {
+        "headline": "Embarking on a Tech Voyage at Gogte Institute of Technology",
+        "text": "<p>I commenced my journey into the realm of technology and innovation by enrolling in the Computer Science Engineering program at Gogte Institute of Technology, a stepping stone towards a future rich in possibilities and advancements in computing.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/ieee.png?raw=true",
+        "caption": ""
+      },
+      "start_date": {
+        "year": "2017",
+        "month":"8"
+      },
+      "text": {
+        "headline": "Leading with Innovation: My Role in IEEE",
+  "text": "<p>My journey in engineering first year took a transformative turn with my active involvement in the IEEE. As a leader within this esteemed organization, I embraced the challenge of merging technical innovation with practical application. This experience was not just about advancing in the field of engineering; it was a pathway to understanding the broader impact of technology on society.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/projectmanagement.jpg?raw=true",
+        "caption": ""
+      },
+      "start_date": {
+        "year": "2018",
+        "month":"7"
+      },
+      "text": {
+        "headline": "Project Management System' using HTML, CSS, PHP and database.",
+        "text": "<p>In our second year, I spearheaded the development of a 'Project Management System' utilizing a robust blend of web technologies including HTML, CSS, PHP, and database integration. This system was meticulously designed to enhance operational efficiency in project tracking and management. A key highlight of this system is its user-friendly interface, crafted with HTML and CSS, which improved user engagement by 40%. This project not only demonstrated my technical expertise in web development and database management but also showcased my ability to translate complex requirements into practical and efficient software solutions. </p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/timetable.jpeg?raw=true",
+        "caption": ""
+      },
+      "start_date": {
+        "year": "2019",
+        "month":"7"
+      },
+      "text": {
+        "headline": "Revolutionizing Academic Scheduling: Automated Timetable Generator Project",
+        "text": "<p>Third year project, representing a significant leap in academic scheduling, employing advanced genetic algorithms to create precise, constraint-satisfying, and error-free timetables. The implementation of this system resulted in a remarkable 50% reduction in the time required for timetable generation, compared to traditional methods. This venture not only highlighted my proficiency in database management and algorithm application but also underscored my ability to innovatively solve real-world challenges.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/FluxGen.jpeg?raw=true",
+        "caption": ""
+      },
+      "start_date": {
+        "year": "2020",
+        "month":"1"
+      },
+      "text": {
+        "headline": "Pioneering Building Management: Final Year Project with FluxGen Technologies",
+        "text": "<p>My final year project, in collaboration with FluxGen Technologies, represented a cutting-edge foray into the integration of Artificial Intelligence and Data Science in building management systems. This innovative project was centered around the development of a smart building system, leveraging IoT and cloud-based technologies. The core of our system was AI sensors, which were strategically implemented to gather comprehensive data on building operations. We processed extensive datasets to understand building dynamics, leading to a 20% improvement in operational efficiency. The project significantly advanced the way buildings are managed, enabling a more nuanced understanding of resource utilization and operational patterns. The implementation of our AI-driven system resulted in a 25% reduction in energy consumption and a 30% decrease in operational costs, underscoring the system's efficiency and economic impact. Working in this project allowed me to delve deep into the practical applications of AI and Data Science in real-world scenarios, particularly in enhancing building automation and environmental sustainability.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/ADP.png?raw=true",
+        "caption": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month":"4"
+      },
+      "text": {
+        "headline": "Advancing Payroll Precision: My Analytic Expedition at ADP",
+        "text": "<p>My engagement with Automatic Data Processing (ADP) as a Data Analyst, was a period of profound professional development and significant contributions to the field of payroll processing.With a keen focus on strategic analytics and data engineering, I embarked on projects that substantially enhanced the intricacies of payroll processing. I employed targeted statistical analysis and A/B testing methodologies, which led to a remarkable 20% uptick in processing efficiency. My initiative in refining SQL database operations through the optimization of over 30 ETL scripts was met with a striking 40% improvement in query performance, concurrently achieving a notable reduction in payroll discrepancies. Leveraging my proficiency with the Python programming language and the plotly library, I engineered advanced data visualization tools. These tools, including t-SNE and Sankey diagrams, played a crucial role in reducing processing cycle times by 15%, thereby uplifting client satisfaction to new heights. In my pursuit of excellence, I synergized business intelligence insights with client-centric payroll strategies. This synergy, along with leading cross-functional teams and incorporating Agile methodologies, fueled our data pipeline's development and testing processes. My journey at ADP was characterized by a relentless pursuit of innovation and the adaptability to embrace and initiate change, thereby contributing to the company's overarching vision and solidifying my role as a catalyst for transformative solutions in the fintech domain.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/SJSU.png?raw=true",
+        "caption": ""
+      },
+      "start_date": {
+        "year": "2022",
+        "month":"8"
+      },
+      "text": {
+        "headline": "Embarking on a Data Science Odyssey: Master's Journey Begins",
+        "text": "<p>In 2022, I embarked on an intellectually stimulating journey by enrolling in a Master's program in Data Analytics at San Jose State University (SJSU). This decision marked a pivotal moment in my career, aligning my academic pursuits with the burgeoning field of data science. The program promised a comprehensive exploration of complex data sets, predictive analytics, and advanced algorithms, poised to equip me with the skills necessary to decipher and harness the power of data. It was an opportunity to delve into a discipline that is shaping the future of technology, business, and research, and I was eager to immerse myself in this transformative educational experience.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/energy.png?raw=true",
+        "caption": ""
+      },
+      "start_date": {
+        "year": "2022",
+        "month":"9"
+      },
+      "text": {
+        "headline": "Optimizing Energy Utilization: Analytical Project on Departmental Consumption in San Jose",
+        "text": "<p>From September to November, my analytical expertise was channeled into a pivotal project focused on energy consumption across various departments in San Jose.The objective was to offer a granular statistical analysis, paired with intuitive dashboards that elucidated diverse energy consumption scenarios. Our methodology hinged on advanced machine learning techniques to predict future energy requirements by department, projecting the energy profile for the forthcoming year with an accuracy of 95%. By the project's conclusion, we had identified strategies that projected a potential reduction in energy use by up to 20% for the next fiscal year, aligning with global environmental sustainability goals.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/credit.jpeg?raw=true",
+        "caption": ""
+      },
+      "start_date": {
+        "year": "2023",
+        "month":"1"
+      },
+      "text": {
+        "headline": "Advancing Financial Stability: Credit Risk Analysis",
+        "text": "<p>This period, January to March was marked by a dedicated effort to dissect and understand the multifaceted nature of credit risk through data analytics. We meticulously sifted through vast datasets to identify and quantify potential default risks. This critical analysis informed the development of strategic risk mitigation plans, demonstrating my capacity to transform intricate data into actionable strategies for banking and financial institutions. As a result, we achieved a predictive accuracy of 75% in default identification, providing a substantial foundation for financial decision-making. We leveraged an array of advanced data visualization tools, including Matplotlib, Seaborn, and Plotly. My adept utilization of these tools translated complex credit data into comprehensible visual formats, enhancing stakeholder understanding of the financial narratives within the data.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/job_transition.png?raw=true",
+        "caption": ""
+      },
+      "start_date": {
+        "year": "2023",
+        "month":"3"
+      },
+      "text": {
+        "headline": "Optimizing Career Trajectories: AI-Powered Job Transition Modeling",
+        "text": "<p>From March to May 2023, I embarked on a transformative project that intersected the fields of data science and career development, focusing on the creation of an AI-powered job transition pathway. This endeavor involved the innovative use of generative Long Short-Term Memory (LSTM) models to synthesize a wealth of data from varied sources including job listings from Indeed, educational courses from Udemy, and skill data from EMSI. Utilizing advanced Natural Language Processing (NLP) tools like SpaCy for data normalization, I engineered a bespoke fuzzy matching algorithm to intricately link stages of job progression with relevant skill sets, enhancing the model's practical application. Incorporating BERT embeddings within a sophisticated Seq2Seq LSTM framework, I ensured the nuanced understanding of job descriptions, endowing the model with the capability to make precise job and skill predictions. The design and evaluation of the Seq2Seq model, complete with encoder and decoder, allowed for the prediction of personalized career paths and the provision of customized course recommendations.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/NS.png?raw=true",
+        "caption": "https://github.com/nitzmali/Convert-gray-color-image-to-Color"
+      },
+      "start_date": {
+        "year": "2023",
+        "month":"5"
+      },
+      "text": {
+        "headline": "Enhancing Railway Efficiency: Data Analytics Internship at Norfolk Southern Corp",
+        "text": "<p>My summer internship as a Data Analyst at Norfolk Southern Corp in Georgia was a deep dive into the complex world of railway logistics. In this role, I applied my expertise in advanced data analytics, employing SQL for in-depth time series analysis to deconstruct and interpret train scheduling and logistical data. My strategic analysis uncovered key patterns that led to an impressive 25% reduction in train delays, thereby boosting customer satisfaction and streamlining service delivery. A significant part of my internship involved the development and refinement of ETL processes. Utilizing Python in conjunction with AWS Glue, significantly improved the efficiency of large-scale data handling. Another major contribution was the creation of intuitive Tableau dashboards dedicated to monitoring train delays, with a focus on departure and arrival times as well as the causes of delays. This initiative played a crucial role in elevating operational efficiency and reliability across the rail network. Engagement with operational teams was key to my role; through strategic communication and collaboration, I helped drive data-informed operational improvements. By identifying and addressing the root causes of train delays and diligently monitoring key performance indicators, we achieved tangible enhancements in train schedule adherence and overall operational performance.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/chatbot.jpeg?raw=true",
+        "caption": ""
+      },
+      "start_date": {
+        "year": "2023",
+        "month":"8"
+      },
+      "text": {
+        "headline": "Advancing Educational Interaction: AI Chatbot Development at San Jose State University",
+        "text": "<p>My project at San Jose State University from August to October 2023 was a deep engagement with the domain of conversational AI, specifically aimed at enriching the student interaction experience within the Applied Data Science department. I was involved in the development of a cutting-edge AI chatbot, utilizing the prowess of GPT-3.5 and Transformer models, a project that stood at the intersection of academic assistance and technological innovation. The foundation of this project was a robust dataset, named the SJSU Data Science Q&A Dataset, meticulously compiled through a process of web scraping from the university's Data Science Department's website. The proposed model utilized three Large Language Models (LLMs) for the chatbot implementation. The LLMs, particularly Llama-2-7b, GPT 3.5, and a hybrid model combining GPT 3.5 and RAG, were chosen for their capacity to interpret and respond to complex queries in a contextually relevant manner. These models, renowned for their deep learning Transformer architectures, were fine-tuned for the specific conversational context of the dataset, enhancing the chatbot's responsiveness and accuracy. To evaluate the chatbot’s performance, we employed metrics such as SAS (Semantic Answer Similarity) and BLEU (Bilingual Evaluation Understudy). SAS measured the semantic similarity between the chatbot's response and the correct answer, while BLEU assessed the precision of the word and phrase matches in the correct order.</p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/stack.png?raw=true",
+        "caption": ""
+      },
+      "start_date": {
+        "year": "2023",
+        "month":"10"
+      },
+      "text": {
+        "headline": "Refining Educational Resource Accessibility: NLP and AI in Stack Overflow Analysis",
+        "text": "<p>Since September 2023, I have been engaged with a project at San Jose State University that intersects the realms of NLP and AI, with a focus on optimizing the utility of Stack Overflow as an educational resource in mathematics and statistical analysis. Integrating sophisticated machine learning classifiers such as Random Forest and SVM, I've refined the process of content tagging, achieving a notable 96% precision rate. Further, by deploying state-of-the-art transformer models like 'all-MiniLM-L6-v2' and 'all-mpnet-base-v2', I have enhanced the semantic analysis capability, ensuring that the most relevant solutions are accessible to users seeking knowledge. In pursuit of optimizing user experience, I pioneered a personalized ranking algorithm, which has led to a 21% improvement in Normalized Discounted Cumulative Gain (NDCG) scores—a metric that measures the effectiveness of web search algorithms. Additionally, this algorithm has contributed to a 30% reduction in query resolution time, significantly enriching the user experience on educational forums.</p>"
+      }
+    }
+    ]
+}
+  
+  
+      
