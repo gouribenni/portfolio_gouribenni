@@ -13,7 +13,7 @@
     "events": [
       {
         "media": {
-          "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/sports.png?raw=true",
+          "url": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/sports.png?raw=true",
           "caption": ""
         },
         "start_date": {
@@ -27,7 +27,7 @@
       },
       {
       "media": {
-        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/Gogte.jpeg?raw=true",
+        "url": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/Gogte.jpeg?raw=true",
         "caption": ""
       },
       "start_date": {
@@ -41,7 +41,7 @@
     },
     {
       "media": {
-        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/ieee.png?raw=true",
+        "url": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/ieee.png?raw=true",
         "caption": ""
       },
       "start_date": {
@@ -55,7 +55,7 @@
     },
     {
       "media": {
-        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/projectmanagement.jpg?raw=true",
+        "url": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/project.png?raw=true",
         "caption": ""
       },
       "start_date": {
@@ -63,13 +63,13 @@
         "month":"7"
       },
       "text": {
-        "headline": "Project Management System' using HTML, CSS, PHP and database.",
+        "headline": "Project Management System using HTML, CSS, PHP and database.",
         "text": "<p>In our second year, I spearheaded the development of a 'Project Management System' utilizing a robust blend of web technologies including HTML, CSS, PHP, and database integration. This system was meticulously designed to enhance operational efficiency in project tracking and management. A key highlight of this system is its user-friendly interface, crafted with HTML and CSS, which improved user engagement by 40%. This project not only demonstrated my technical expertise in web development and database management but also showcased my ability to translate complex requirements into practical and efficient software solutions. </p>"
       }
     },
     {
       "media": {
-        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/timetable.jpeg?raw=true",
+        "url": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/timetable.jpeg?raw=true",
         "caption": ""
       },
       "start_date": {
@@ -83,7 +83,7 @@
     },
     {
       "media": {
-        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/FluxGen.jpeg?raw=true",
+        "url": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/FluxGen.jpeg?raw=true",
         "caption": ""
       },
       "start_date": {
@@ -97,7 +97,7 @@
     },
     {
       "media": {
-        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/ADP.png?raw=true",
+        "url": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/ADP.png?raw=true",
         "caption": ""
       },
       "start_date": {
@@ -111,7 +111,7 @@
     },
     {
       "media": {
-        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/SJSU.png?raw=true",
+        "url": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/SJSU.png?raw=true",
         "caption": ""
       },
       "start_date": {
@@ -125,7 +125,7 @@
     },
     {
       "media": {
-        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/energy.png?raw=true",
+        "url": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/energy.png?raw=true",
         "caption": ""
       },
       "start_date": {
@@ -139,7 +139,7 @@
     },
     {
       "media": {
-        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/credit.jpeg?raw=true",
+        "url": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/credit.jpeg?raw=true",
         "caption": ""
       },
       "start_date": {
@@ -153,7 +153,7 @@
     },
     {
       "media": {
-        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/job_transition.png?raw=true",
+        "url": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/job_transition.png?raw=true",
         "caption": ""
       },
       "start_date": {
@@ -167,7 +167,7 @@
     },
     {
       "media": {
-        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/NS.png?raw=true",
+        "url": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/NS.png?raw=true",
         "caption": "https://github.com/nitzmali/Convert-gray-color-image-to-Color"
       },
       "start_date": {
@@ -181,7 +181,7 @@
     },
     {
       "media": {
-        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/chatbot.jpeg?raw=true",
+        "url": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/chatbot.jpeg?raw=true",
         "caption": ""
       },
       "start_date": {
@@ -195,7 +195,7 @@
     },
     {
       "media": {
-        "url": "https://github.com/gouribenni/portfolio/blob/main/assets/images/stack.png?raw=true",
+        "url": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/stack.png?raw=true",
         "caption": ""
       },
       "start_date": {

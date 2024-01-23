@@ -9,7 +9,7 @@ from widgets import navbar,sankey_work_experience
 class Landingpage:
   def run(self):
 
-    #st.markdown("<h1 style='text-align: left; color: black;'>Nitin Mali</h1>", unsafe_allow_html=True)
+    #st.markdown("<h1 style='text-align: left; color: black;'>Gouri Benni</h1>", unsafe_allow_html=True)
     with st.sidebar:
        submit_button = st.button(label="*Download Resume*")
     '''
@@ -22,8 +22,8 @@ class Landingpage:
     # Profile Picture
     left_co, right_co = st.columns([1.2, 1.2])
     with right_co:
-          st.image("https://github.com/gouribenni/portfolio/blob/main/assets/images/nitin_image_exchange_place.gif?raw=true",width=300)
-    
+          st.image("https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/Gouri.png?raw=true",width=300)
+
     
     with left_co:
       #st.write("# Hi, I'm Gouri! 👋 ")

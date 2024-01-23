@@ -27,7 +27,7 @@ class WorkExperiencePage:
                     <li>Applied analytical and statistical programming skills using Python, TensorFlow, and Pandas to collect, analyze, and interpret large data sets, driving significant insights and outcomes.</li>
                 </ul>
             """,
-            "icon": "https://github.com/gouri/portfolio/blob/main/assets/images/NS.png?raw=true",
+            "icon": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/NS.png?raw=true",
             "url":"https://www.norfolksouthern.com/",
         },
         {
@@ -44,7 +44,7 @@ class WorkExperiencePage:
                     <li>Synthesized business intelligence with payroll strategies to meet client requirements, led cross-functional teams for systemic improvements, and integrated Agile methodologies to advance payroll data pipeline development and testing, fostering an environment of continuous innovation and adaptability.</li>
                 </ul>
             """,
-            "icon": "https://github.com/gouribenni/portfolio/blob/main/assets/images/ADP.png?raw=true",  # Replace with the actual URL or path to your icon
+            "icon": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/ADP.png?raw=true",  # Replace with the actual URL or path to your icon
             "url":"https://in.adp.com/",
         }
     ]
@@ -230,7 +230,7 @@ class WorkExperiencePage:
         # Further details can be added here based on the selected company
     #st.download_button(label="Download Resume", data="Your resume content", file_name="assets/documents/Mali_Nitin_Resume_DS.pdf", mime="application/pdf")
     # Provide the path to your local PDF file
-    file_path = 'assets/documents/Mali_Nitin_Resume_DS.pdf'
+    file_path = 'assets/documents/resume_gouri_benni.pdf'
         # Read the PDF file into bytes
     with open(file_path, "rb") as pdf_file:
         PDFbyte = pdf_file.read()
@@ -238,7 +238,7 @@ class WorkExperiencePage:
     st.download_button(
         label="Download Resume",
         data=PDFbyte,
-        file_name="Mali_Nitin_Resume_DS.pdf",
+        file_name="resume_gouri_benni.pdf",
         mime="application/pdf"
     )
 
