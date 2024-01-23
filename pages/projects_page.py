@@ -78,11 +78,24 @@ class ProjectPage:
                 "details": "We ventured into the intricate world of supply chain optimization, deploying predictive analytics to streamline end-to-end operations from raw material acquisition to final product delivery. By analyzing vast datasets spanning global trade statistics and daily e-commerce demands, we aimed to mitigate operational risks and enhance customer satisfaction. Our approach fused sophisticated machine learning models, including ARIMA and adaptive boosting, with IoT and machine learning technologies to refine supply chain visibility and forecast demand with unprecedented precision. This data-driven strategy promises to revolutionize inventory management, reduce lead times, and curtail logistics costs, setting a new benchmark for supply chain efficiency in the digital era.",
                 "insights": "Insights from Project 1",
                 "visualizations": "URL_to_visualization_1", 
-                "code": "https://www.facebook.com/GoMadApp",
+                "code": "https://github.com/gouribenni/Supply_chain",
                 "conclusion": "Conclusion of Project 1",
                 "pdf":False
 
             },
+            {
+                "title": "Sports analysis: Beyond the numbers",
+                "image": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/sports_analysis.png?raw=true",
+                "description": "Utilizing advanced predictive analysis techniques to enhance supply chain operations, fostering market adaptability and streamlined logistical performance",
+                "details": "We ventured into the intricate world of supply chain optimization, deploying predictive analytics to streamline end-to-end operations from raw material acquisition to final product delivery. By analyzing vast datasets spanning global trade statistics and daily e-commerce demands, we aimed to mitigate operational risks and enhance customer satisfaction. Our approach fused sophisticated machine learning models, including ARIMA and adaptive boosting, with IoT and machine learning technologies to refine supply chain visibility and forecast demand with unprecedented precision. This data-driven strategy promises to revolutionize inventory management, reduce lead times, and curtail logistics costs, setting a new benchmark for supply chain efficiency in the digital era.",
+                "insights": "Insights from Project 1",
+                "visualizations": "URL_to_visualization_1", 
+                "code": "https://github.com/gouribenni/Sports_analysis",
+                "conclusion": "Conclusion of Project 1",
+                "pdf":False
+
+            },
+    
             {
                 "title": "Automated Time-Table Scheduler using Genetic Algorithm",
                 "image": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/generator.png?raw=true",
@@ -90,7 +103,7 @@ class ProjectPage:
                 "details":'',
                 "insights": "Insights from Project 1",
                 "visualizations": "URL_to_visualization_1",  # or path to local file
-                "code": "https://youtu.be/09odCLopdrc?si=Vgr8L8ltDlQnXXjR",
+                "code": "",
                 "conclusion": "Conclusion of Project 1",
                 "pdf":True,
                 "pdf_file_path":'assets/documents/FinalPR.pdf'
@@ -102,19 +115,19 @@ class ProjectPage:
                 "details":'',
                 "insights": "Insights from Project 1",
                 "visualizations": "URL_to_visualization_1",  # or path to local file
-                "code": "https://youtu.be/09odCLopdrc?si=Vgr8L8ltDlQnXXjR",
+                "code": "",
                 "conclusion": "Conclusion of Project 1",
                 "pdf":True,
-                "pdf_file_path":'assets/documents/credit_risk.docx.pdf'
+                "pdf_file_path":'assets/documents/credit_risk.pdf'
             },
             {
                 "title": "Analysis of Energy Consumption by various departments in San Jose",
                 "image": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/energy.png?raw=true",
                 "description": "An in-depth analysis focused on evaluating and optimizing energy consumption across different departments in San Jose, aiming for sustainable and efficient energy use.",
-                "details":'This project involves a comprehensive analysis of energy consumption across various departments in San Jose, using data processing, analytics, and visualization to understand usage patterns. The analysis employs complex SQL queries to examine electricity usage data, focusing on identifying trends and efficiencies in different city departments.',
+                "details":'',
                 "insights": "Insights from Project 1",
                 "visualizations": "URL_to_visualization_1",  # or path to local file
-                "code": "https://github.com/nitzmali/Artificial-Intelligence--Path-Planning-and-Search-Algorithms",
+                "code": "",
                 "conclusion": "Conclusion of Project 1",
                 "pdf":True,
                 "pdf_file_path":'assets/documents/energy_consumption.pdf'
@@ -122,11 +135,11 @@ class ProjectPage:
             {
                 "title": "NeuroNest: Deep Learning Chatbot for Applied Data Science department",
                 "image": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/bot.png?raw=true",
-                "description": "The NeuroNest project revolutionizes communication within the Applied Data Science department through a deep learning-powered chatbot, integrating advanced language models like llama2, GPT-3.5, and RAG for accurate, context-aware responses, thereby enhancing educational accessibility and efficiency. This innovative solution significantly improves the way information is disseminated in academic settings, setting a new benchmark for AI-driven educational tools.",
-                "details":'This project involves a comprehensive analysis of energy consumption across various departments in San Jose, using data processing, analytics, and visualization to understand usage patterns. The analysis employs complex SQL queries to examine electricity usage data, focusing on identifying trends and efficiencies in different city departments.',
+                "description": "The NeuroNest project revolutionizes communication within the Applied Data Science department through a deep learning-powered chatbot, integrating advanced language models like llama2, GPT-3.5, and RAG for accurate, context-aware responses.",
+                "details":'The NEURONEST project involved the development of a deep learning chatbot, integrating advanced language models like Llama2 and GPT-3.5, trained on a vast dataset of over 370,000 academic interactions. Python-based web scraping tools such as BeautifulSoup and Selenium were used to create this dataset, significantly enhancing the chatbot response accuracy by 35%. The project leveraged advanced Transformer architectures in language models, achieving a notable 40% increase in text processing efficiency and contextual understanding. Key performance metrics included a 0.79 SAS (Semantic Accuracy Score) and a 0.76 BLEU (Bilingual Evaluation Understudy) score, reflecting high levels of semantic accuracy and linguistic precision. Additionally, innovations like LoRA layers and dropout regularization were integrated to reduce overfitting, along with the paged_adamw_8bit AdamW optimizer to improve memory usage efficiency, culminating in a 20%' 'increase in user satisfaction over traditional academic communication methods.',
                 "insights": "Insights from Project 1",
                 "visualizations": "URL_to_visualization_1",  # or path to local file
-                "code": "https://github.com/gouribenni/Artificial-Intelligence--Path-Planning-and-Search-Algorithms",
+                "code": "https://github.com/gouribenni/AI_ChatBot",
                 "conclusion": "Conclusion of Project 1",
                 "pdf":False,
                 "pdf_file_path":''
@@ -135,12 +148,12 @@ class ProjectPage:
                 "title": "Ranked Stack Overflow: Mathematics and Statistical Analysis",
                 "image": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/stack.png?raw=true",
                 "description": "A specialized tool that efficiently categorizes and prioritizes Stack Overflow content, using advanced algorithms to enhance the accessibility and relevance of mathematical and statistical information for users.",
-                "details":"I embarked on an innovative machine learning venture to transform grayscale images into vibrant color. Utilizing K-means clustering and linear regression, our team trained a model capable of accurately inferring and applying color to monochromatic images. The process involved meticulous division of data into training, test, and validation sets, coupled with extensive experimentation with various hyperparameters. These included the number of clusters, the format of input data (whether clustered, normalized, or one-hot encoded), and the type of output, along with adjustments in the learning rate. Our focus was on fine-tuning the parameters in the linear regression model to maximize accuracy, with validation data sets serving as our benchmark for success. This project not only demonstrated the practical applications of machine learning in image processing but also pushed the limits of how artificial intelligence can restore and enhance visual data.",
+                "details":"",
                 "insights": "Insights from Project 1",
                 "visualizations": "URL_to_visualization_1",  # or path to local file
-                "code": "https://github.com/gouribenni/Convert-gray-color-image-to-Color",
+                "code": "",
                 "conclusion": "Conclusion of Project 1",
-                "pdf":True,
+                "pdf":False,
                 "pdf_file_path":'assets/documents/Stack_overflow.pdf'
             },
             {
