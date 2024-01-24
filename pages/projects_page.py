@@ -86,8 +86,8 @@ class ProjectPage:
             {
                 "title": "Sports analysis: Beyond the numbers",
                 "image": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/sports_analysis.png?raw=true",
-                "description": "Utilizing advanced predictive analysis techniques to enhance supply chain operations, fostering market adaptability and streamlined logistical performance",
-                "details": "We ventured into the intricate world of supply chain optimization, deploying predictive analytics to streamline end-to-end operations from raw material acquisition to final product delivery. By analyzing vast datasets spanning global trade statistics and daily e-commerce demands, we aimed to mitigate operational risks and enhance customer satisfaction. Our approach fused sophisticated machine learning models, including ARIMA and adaptive boosting, with IoT and machine learning technologies to refine supply chain visibility and forecast demand with unprecedented precision. This data-driven strategy promises to revolutionize inventory management, reduce lead times, and curtail logistics costs, setting a new benchmark for supply chain efficiency in the digital era.",
+                "description": "Developed an advanced sports analysis website, specializing in cricket data analytics, with a focus on comprehensive player performance and game insights.",
+                "details": "The sports analysis website developed is a specialized platform dedicated to cricket data analytics, offering in-depth insights into player performances and various aspects of the game. This project involved sourcing comprehensive datasets from cricbuzz.com, which were initially in JSON format. A significant portion of the work entailed meticulous data cleaning and processing to transform and standardize this information for analytical purposes. To accurately represent and analyze the unique characteristics and statistics of cricket, a bespoke data model was created. For efficient data management and retrieval, SQL was employed as the backbone for query execution. The analytical prowess of the website is further enhanced by the use of Tableau, which was instrumental in developing a series of dynamic and interactive dashboards. These dashboards provide detailed and visually engaging insights into individual cricketer performances and various dimensions of cricket. The end result is a user-friendly platform that converts raw cricket data into easily understandable, yet comprehensive analytical insights, catering to enthusiasts and professionals alike who seek a deeper understanding of the sport.",
                 "insights": "Insights from Project 1",
                 "visualizations": "URL_to_visualization_1", 
                 "code": "https://github.com/gouribenni/Sports_analysis",
@@ -95,7 +95,7 @@ class ProjectPage:
                 "pdf":False
 
             },
-    
+
             {
                 "title": "Automated Time-Table Scheduler using Genetic Algorithm",
                 "image": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/generator.png?raw=true",
@@ -118,7 +118,7 @@ class ProjectPage:
                 "code": "",
                 "conclusion": "Conclusion of Project 1",
                 "pdf":True,
-                "pdf_file_path":'assets/documents/credit_risk.pdf'
+                "pdf_file_path":'assets/documents/credit_risk_compressed.pdf'
             },
             {
                 "title": "Analysis of Energy Consumption by various departments in San Jose",
@@ -154,7 +154,7 @@ class ProjectPage:
                 "code": "",
                 "conclusion": "Conclusion of Project 1",
                 "pdf":False,
-                "pdf_file_path":'assets/documents/Stack_overflow.pdf'
+                "pdf_file_path":'assets/documents/Stack1.pdf'
             },
             {
                 "title": "AI Powered Job Transition Pathway using Generative LSTM Models",
@@ -197,7 +197,7 @@ class ProjectPage:
                         </div>''',
                 "insights": "Insights from Project 1",
                 "visualizations": "URL_to_visualization_1",  # or path to local file
-                "code": "https://github.com/gouribenni/job_transition_pathway",
+                "code": "https://github.com/gouribenni/job_transition",
                 "conclusion": "Conclusion of Project 1",
                 "pdf":False,
                 "pdf_file_path":''
