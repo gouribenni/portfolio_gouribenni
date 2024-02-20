@@ -14,17 +14,18 @@ class WorkExperiencePage:
   def run(self):
     work_experience = [
         {
-            "role": "Data Analyst",
+            "role": "Data Science Analyst Intern",
             "company": "Norfolk Southern Corp",
             "period": "May 2023 - August 2023",
             "location": "Georgia, USA",
             "details": """
                 <ul>
-                    <li>Conducted advanced data analytics to analyze train scheduling and logistics, using SQL for time series analysis; identified patterns leading to a 25%' reduction in train delays and enhanced customer satisfaction.</li>
-                    <li>Developed and optimized ETL processes using Python with AWS Glue, improving large-scale data handling efficiency; managed data within AWS RedShift for better operational decision-making.</li>
-                    <li>Created Tableau dashboards for train delay monitoring, focusing on departure, arrival times and delay causes, leading to improved operational efficiency and reliability.</li>
-                    <li>Facilitated data-driven operational improvements by engaging in strategic communication and collaboration with operational teams to mitigate root causes of train delays and meticulously monitoring and tracking key performance indicators related to train schedules.</li>
-                    <li>Applied analytical and statistical programming skills using Python, TensorFlow, and Pandas to collect, analyze, and interpret large data sets, driving significant insights and outcomes.</li>
+                    <li>Conducted advanced statistical analysis and A/B testing using Excel and SQL to optimize NS train schedules. Identified key patterns and anomalies,leading to a 25%' reduction in train delays, enhancing operational efficiency and customer satisfaction.</li>
+                    <li>Built the creation of feature stores and data assets for machine learning models by integrating an analytics platform with Delta Lake on AWS. This initiative streamlined algorithmic workflows and accelerated data preparation, substantially reducing time spent by data scientists on model readiness.</li>
+                    <li>Created Tableau dashboards for real-time monitoring of NS train delays, focusing on departure, arrival times, and delay causes. Improved operational efficiency and reliability, leading to a 15%' increase in on-time train arrivals.</li>
+                    <li>Applied NLP techniques for textual analysis of unstructured NS operational data. Used sentiment analysis, topic modeling, and NER to extract insights, contributing to a 10%' improvement in operational decision-making accuracy.</li>
+                    <li>Utilized deep learning models, including LLM and transformers, for inspecting NS trains and improved anomaly detection accuracy by 30%, enhancing safety and maintenance efficiency.</li>
+                    <li>Implemented XGBoost and ARIMA models for predictive maintenance of NS rail tracks. Reduced maintenance-related delays by 18%' and enhanced lifespan of rail infrastructure.</li>
                 </ul>
             """,
             "icon": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/NS.png?raw=true",
@@ -33,15 +34,17 @@ class WorkExperiencePage:
         {
             "role": "Data Analyst",
             "company": "ADP Pvt Ltd",
-            "period": "April 2021 - June 2021",
+            "period": "September 2020 - June 2021",
             "location": "Hyderabad, India",
             "details": """
                 <ul>
-                    <li>Participated in strategic analytics and data engineering projects that amplified payroll processing efficiency by 20% through targeted statistical analysis and A/B testing, while simultaneously enhancing SQL query performance by 40% through the optimization of over 30 ETL scripts and reducing payroll discrepancies with a co-developed regression model.</li>
-                    <li>Engineered complex data visualization charts like t-sne and Sankey using plotly library in Python for real-time payroll metrics monitoring, instrumental in cutting processing cycle times by 15%' and elevating client satisfaction levels.</li>
-                    <li>Orchestrated a project to refine payroll workflows using JIRA and Gantt charts, which delivered a 30%' boost in issue resolution and a 25%' rise in processing productivity.</li>
-                    <li>Implemented data governance and enforced quality control protocols, securing payroll data accuracy and compliance with financial regulations.</li>
-                    <li>Synthesized business intelligence with payroll strategies to meet client requirements, led cross-functional teams for systemic improvements, and integrated Agile methodologies to advance payroll data pipeline development and testing, fostering an environment of continuous innovation and adaptability.</li>
+                    <li>Developed SQL and Python-based data models in ADP Data-Cloud to address payroll issues like overtime miscalculations and tax discrepancies, enhancing processing accuracy by 25%' and cut payroll errors by 15%.</li>
+                    <li>Built a Data Lake enhancing ADP Assist’s AI, boosting predictive analytics for employee turnover and compliance. Achieved 30%' faster data retrieval and 20%' better processing efficiency.</li>
+                    <li>Created Python-based ETL pipelines enhancing real-time data integration for ADP Workforce Now. This improvement enabled more dynamic tracking of employee time and attendance, reducing data latency by 35% and ensuring timelier and more accurate payroll and HR reporting.</li>
+                    <li>Implemented data models and Tableau reports in ADP Vantage HCM, improving HR decision-making by 40%. Provided insights for employee development and talent management strategies.</li>
+                    <li>Upgraded ADP’s data warehouse, enhancing data scalability and query performance. Essential for complex reporting for multinational clients.</li>
+                    <li>Applied clustering algorithms to segment ADP's client base in ADP Analytics, leading to more tailored payroll and HR services. This approach helped in identifying unique client patterns, increasing satisfaction by 20% and boosting retention by 15% through more personalized service offerings.</li>
+                    <li>Streamlined project management using Jira for ADP implementation projects, aligning them with business goals by 30%. Continuously learned and applied emerging technologies in AI and ML, improving team productivity and innovation by 20%.</li>
                 </ul>
             """,
             "icon": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/ADP.png?raw=true",  # Replace with the actual URL or path to your icon

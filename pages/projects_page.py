@@ -151,7 +151,7 @@ class ProjectPage:
                 "details":"",
                 "insights": "Insights from Project 1",
                 "visualizations": "URL_to_visualization_1",  # or path to local file
-                "code": "",
+                "code": "https://github.com/gouribenni/Ranked_Stack_Overflow-Mathematics-Statistical-Analytics",
                 "conclusion": "Conclusion of Project 1",
                 "pdf":False,
                 "pdf_file_path":'assets/documents/Stack1.pdf'
