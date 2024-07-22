@@ -14,7 +14,7 @@ class WorkExperiencePage:
   def run(self):
     work_experience = [
         {
-            "role": "Data Science Analyst Intern",
+            "role": "Data Analyst",
             "company": "Norfolk Southern Corp",
             "period": "May 2023 - August 2023",
             "location": "Georgia, USA",
