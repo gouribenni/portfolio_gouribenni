@@ -14,43 +14,58 @@ class WorkExperiencePage:
   def run(self):
     work_experience = [
         {
-            "role": "Data Analyst",
+            "role": "Data Engineer",
             "company": "Norfolk Southern Corp",
             "period": "May 2023 - August 2023",
             "location": "Georgia, USA",
             "details": """
                 <ul>
-                    <li>Conducted advanced statistical analysis and A/B testing using Excel and SQL to optimize NS train schedules. Identified key patterns and anomalies,leading to a 25%' reduction in train delays, enhancing operational efficiency and customer satisfaction.</li>
-                    <li>Built the creation of feature stores and data assets for machine learning models by integrating an analytics platform with Delta Lake on AWS. This initiative streamlined algorithmic workflows and accelerated data preparation, substantially reducing time spent by data scientists on model readiness.</li>
-                    <li>Created Tableau dashboards for real-time monitoring of NS train delays, focusing on departure, arrival times, and delay causes. Improved operational efficiency and reliability, leading to a 15%' increase in on-time train arrivals.</li>
-                    <li>Applied NLP techniques for textual analysis of unstructured NS operational data. Used sentiment analysis, topic modeling, and NER to extract insights, contributing to a 10%' improvement in operational decision-making accuracy.</li>
-                    <li>Utilized deep learning models, including LLM and transformers, for inspecting NS trains and improved anomaly detection accuracy by 30%, enhancing safety and maintenance efficiency.</li>
-                    <li>Implemented XGBoost and ARIMA models for predictive maintenance of NS rail tracks. Reduced maintenance-related delays by 18%' and enhanced lifespan of rail infrastructure.</li>
+                    <li>Designed and implemented ETL pipelines that processed 10+ million records across petabytes of data using PySpark and Hadoop for key partners like Apple, Ford, Tesla, Chevron, and Nvidia, optimizing data flow for train scheduling and operational analytics.</li>
+                    <li>Integrated Docker and Kubernetes for containerization and orchestration of batch and real-time pipelines, while leveraging CI/CD tools like Jenkins for automated deployment, reducing manual intervention and improving data validation by 20%.</li>
+                    <li>Conducted data integration projects, leveraging AWS APIs and endpoints to ingest real-time and historical data, improving forecast accuracy by 25%.</li>
+                    <li>Managed large datasets using Amazon S3, Glue, and Athena, and utilized dbt for data transformation and reporting, accelerating data retrieval and enabling predictive analytics while reducing discrepancies by 15%.</li>
+                    <li>Collaborated with cross-functional teams on forecasting and predictive modeling, leading efforts to implement AWS Data Lake for storing train scheduling data, creating a scalable solution that supported DWH and Big Data requirements, ultimately enhancing decision-making for critical business operations.</li>
                 </ul>
             """,
             "icon": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/NS.png?raw=true",
             "url":"https://www.norfolksouthern.com/",
         },
         {
-            "role": "Data Analyst",
+            "role": "Data Engineer",
             "company": "ADP Pvt Ltd",
-            "period": "September 2020 - June 2021",
+            "period": "June 2019 - June 2022",
             "location": "Hyderabad, India",
             "details": """
                 <ul>
-                    <li>Developed SQL and Python-based data models in ADP Data-Cloud to address payroll issues like overtime miscalculations and tax discrepancies, enhancing processing accuracy by 25%' and cut payroll errors by 15%.</li>
-                    <li>Built a Data Lake enhancing ADP Assist’s AI, boosting predictive analytics for employee turnover and compliance. Achieved 30%' faster data retrieval and 20%' better processing efficiency.</li>
-                    <li>Created Python-based ETL pipelines enhancing real-time data integration for ADP Workforce Now. This improvement enabled more dynamic tracking of employee time and attendance, reducing data latency by 35% and ensuring timelier and more accurate payroll and HR reporting.</li>
-                    <li>Implemented data models and Tableau reports in ADP Vantage HCM, improving HR decision-making by 40%. Provided insights for employee development and talent management strategies.</li>
-                    <li>Upgraded ADP’s data warehouse, enhancing data scalability and query performance. Essential for complex reporting for multinational clients.</li>
-                    <li>Applied clustering algorithms to segment ADP's client base in ADP Analytics, leading to more tailored payroll and HR services. This approach helped in identifying unique client patterns, increasing satisfaction by 20% and boosting retention by 15% through more personalized service offerings.</li>
-                    <li>Streamlined project management using Jira for ADP implementation projects, aligning them with business goals by 30%. Continuously learned and applied emerging technologies in AI and ML, improving team productivity and innovation by 20%.</li>
+                    <li>Created Python-based ETL pipelines enhanced with Airflow for dynamic scheduling and Kafka for real-time data integration for ADP Workforce Now. This improvement enabled more dynamic tracking of employee time and attendance, reducing data latency by 35%.</li>
+                    <li>Built an AWS Data Lake enhancing ADP Assists AI, boosting predictive analytics for employee turnover and compliance. Achieved 30% faster data retrieval and 20% better processing efficiency for clients like Dell, Amazon, Pfizer, Cisco, and Geico.</li>
+                    <li>Developed advanced SQL queries and Python-based data models, optimizing pipelines in ADP Data-Cloud to address payroll issues such as overtime miscalculations and tax discrepancies, enhancing processing accuracy by 25% and reducing payroll errors by 15%</li>
+                    <li>Collaborated with data engineers to design and build foundational datasets, utilizing AWS Glue and Spark for enhanced data analytics.</li>
+                    <li>Applied clustering algorithms to segment ADP's client base in ADP Analytics, tailoring payroll and HR services. This approach helped identify unique client patterns, increasing satisfaction by 20% and boosting retention by 15%.</li>
+                    <li>Upgraded ADPs data warehouse using Snowflake, enhancing data scalability and query performance for complex reporting for multinational clients.</li>
+                    <li>Implemented data models and Tableau reports in ADP Vantage HCM, improving HR decision-making by 40% and providing insights for employee development and talent management strategies.</li>
+                    <li>Streamlined project management using Jira for ADP implementation projects, aligning them with business goals by 30%. Continuously applied emerging technologies in AI and ML, improving team productivity by 20%.</li>
                 </ul>
             """,
             "icon": "https://github.com/gouribenni/portfolio_gouribenni/blob/main/assets/images/ADP.png?raw=true",  # Replace with the actual URL or path to your icon
             "url":"https://in.adp.com/",
+        },
+        {
+            "role": "Data Analyst",
+            "company": "FluxGen Engineering Technologies",
+            "period": "January 2019 - May 2019",
+            "location": "Bangalore, India",
+            "details": """
+                <ul>
+                    <li>Collaborated with the engineering team to analyze real-time water flow and level data using AquaGen’s smart monitoring system. Applied data analytics to detect inefficiencies in water infrastructure, resulting in a 10% reduction in non-revenue water loss.</li>
+                    <li>Developed and optimized data-driven insights on water consumption patterns and identified potential leakages. These analyses enabled proactive notifications for ground maintenance personnel, improving overall operational efficiency by 15%.</li>
+                </ul>
+            """,
+            "icon": "https://github.com/gouribenni/portfolio_gouribenni/blob/assets/images/FluxGen.jpeg?raw=true",  # Replace with the actual URL or path to your icon
+            "url":"https://fluxgen.com/"
         }
     ]
+
 
 
 
