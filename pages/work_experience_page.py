@@ -61,7 +61,7 @@ class WorkExperiencePage:
                     <li>Developed and optimized data-driven insights on water consumption patterns and identified potential leakages. These analyses enabled proactive notifications for ground maintenance personnel, improving overall operational efficiency by 15%.</li>
                 </ul>
             """,
-            "icon": "https://github.com/gouribenni/portfolio_gouribenni/blob/assets/images/FluxGen.jpeg?raw=true",  # Replace with the actual URL or path to your icon
+            "icon": "https://github.com/gouribenni/portfolio_gouribenni/blob/assets/images/fulxgen.png?raw=true",  # Replace with the actual URL or path to your icon
             "url":"https://fluxgen.com/"
         }
     ]
