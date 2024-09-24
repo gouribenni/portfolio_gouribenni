@@ -14,7 +14,7 @@ class WorkExperiencePage:
   def run(self):
     work_experience = [
         {
-            #"role": "Data Engineer",
+            "role": "",
             "company": "Norfolk Southern Corp",
             "period": "May 2023 - August 2023",
             "location": "Georgia, USA",
@@ -38,7 +38,7 @@ class WorkExperiencePage:
             "url":"https://www.norfolksouthern.com/",
         },
         {
-            #"role": "Data Engineer",
+            "role": "",
             "company": "ADP Pvt Ltd",
             "period": "June 2019 - June 2022",
             "location": "Hyderabad, India",
@@ -63,7 +63,7 @@ class WorkExperiencePage:
             "url":"https://in.adp.com/",
         },
         {
-            #"role": "Data Analyst",
+            "role": "",
             "company": "FluxGen Engineering Technologies",
             "period": "January 2019 - May 2019",
             "location": "Bangalore, India",
